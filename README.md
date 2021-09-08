@@ -1,9 +1,9 @@
 <h1 align="center">안녕하세요 👋, 프론트엔드 개발자 윤해은입니다</h1>
 
-[![Gmail
-Badge](https://img.shields.io/badge/-yhehe228@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yhehe228@gmail.com)](mailto:yhehe228@gmail.com)
 [![Github
 Badge](https://img.shields.io/badge/-yoonhe-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yoonhe/)](https://yoonhe.github.io/)
+[![Gmail
+Badge](https://img.shields.io/badge/-yhehe228@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yhehe228@gmail.com)](mailto:yhehe228@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
