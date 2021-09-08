@@ -2,7 +2,8 @@
 
 [![Gmail
 Badge](https://img.shields.io/badge/-yhehe228@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yhehe228@gmail.com)](mailto:yhehe228@gmail.com)
-[![Github Badge](https://yoonhe.github.io/)
+[![Github
+Badge](https://img.shields.io/badge/-yoonhe-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yoonhe/)](https://yoonhe.github.io/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
