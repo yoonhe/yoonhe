@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=YoonHeaEun&fontAlign=70&rotate=13&fontAlignY=25&desc=Web%20Frontend%20Developer&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
 
 <h3 align="center">BLOG</h3>
 <p align="center">
