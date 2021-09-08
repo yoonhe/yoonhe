@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=FE%20HeaEun&fontSize=90)
-
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=👋&fontAlign=30&fontSize=30&textBg=true&desc=HeaEunYoon&descSize=50&descColor=ffffff&descAlign=60&descAlignY=50)
 
 [![Github
 Badge](https://img.shields.io/badge/-yoonhe-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yoonhe/)](https://yoonhe.github.io/)
