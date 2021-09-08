@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yoon%20Heaeun&fontSize=90&animation=fadeIn&fontAlignY=33&desc=Web%20Frontend%20Developer%20&descAlignY=51&descAlign=68)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=240&section=header&text=Yoon%20Heaeun&fontSize=60&animation=fadeIn&fontAlignY=25&desc=Web%20Frontend%20Developer%20&descAlignY=42&descAlign=50)
 
 <h3 align="center">STACKS</h3>
 <p align="center">
