@@ -1,4 +1,4 @@
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=👋&fontAlign=30&fontSize=30&textBg=true&desc=HeaEunYoon&descSize=50&descColor=ffffff&descAlign=60&descAlignY=50)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=YoonHeaeun&height=150&fontSize=60&desc=Web%20Frontend%20Developer&descAlignY=75&descAlign=60)
 
 [![Github
 Badge](https://img.shields.io/badge/-yoonhe-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yoonhe/)](https://yoonhe.github.io/)
