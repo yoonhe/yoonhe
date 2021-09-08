@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yoon%20Heaeun&fontSize=90&animation=fadeIn&fontAlignY=33&desc=Web%20Frontend%20Developer%20&descAlignY=51&descAlign=68)
 
-<h3 align="center">BLOG</h3>
-<p align="center">
-  <a href="https://velog.io/@yhe228"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yhe228"/></a>&nbsp
-  <a href="mailto:yhehe228@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yhehe228@gmail.com"/></a>
-</p>
-
 <h3 align="center">STACKS</h3>
 <p align="center">
   <a
@@ -75,6 +69,13 @@
       height="40"
     />
   </a>
+</p>
+
+<h3 align="center">BLOG & EMAIL</h3>
+<p align="center">
+  <a href="https://velog.io/@yhe228"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yhe228"/></a>&nbsp
+  <a href="https://yoonhe.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-58a6ff?style=flat-square&logo=GitHub&logoColor=white&link=https://yoonhe.github.io/"/></a>&nbsp
+  <a href="mailto:yhehe228@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yhehe228@gmail.com"/></a>
 </p>
 
 <!-- [![Github
