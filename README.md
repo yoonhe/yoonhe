@@ -1,12 +1,13 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=YoonHeaeun&height=150&fontSize=60&desc=Web%20Frontend%20Developer&descAlignY=75&descAlign=60)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=YoonHeaEun&fontAlign=70&rotate=13&fontAlignY=25&desc=Web%20Frontend%20Developer&descAlign=70.&descAlignY=44)
 
-[![Github
-Badge](https://img.shields.io/badge/-yoonhe-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yoonhe/)](https://yoonhe.github.io/)
-[![Gmail
-Badge](https://img.shields.io/badge/-yhehe228@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yhehe228@gmail.com)](mailto:yhehe228@gmail.com)
+<h3 align="center">BLOG</h3>
+<p align="center">
+  <a href="https://velog.io/@yhe228"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yhe228"/></a>&nbsp
+  <a href="mailto:yhehe228@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yhehe228@gmail.com"/></a>
+</p>
 
-<h2 align="left">Stacks</h2>
-<p align="left">
+<h3 align="center">STACKS</h3>
+<p align="center">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -76,6 +77,6 @@ Badge](https://img.shields.io/badge/-yhehe228@gmail.com-c14438?style=flat&logo=G
   </a>
 </p>
 
-[![Github
+<!-- [![Github
 stats](https://github-readme-stats.vercel.app/api?username=yoonhe&show_icons=true&include_all_commits=true)](https://github.com/yoonhe/github-readme-stats)[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonhe&layout=compact)](https://github.com/yoonhe/github-readme-stats)
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonhe&layout=compact)](https://github.com/yoonhe/github-readme-stats) -->
