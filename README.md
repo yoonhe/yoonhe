@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요 👋, 프론트엔드 개발자 윤해은입니다</h1>
+<h1 align="center">안녕하세요 👋</h1>
 
 [![Github
 Badge](https://img.shields.io/badge/-yoonhe-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yoonhe/)](https://yoonhe.github.io/)
